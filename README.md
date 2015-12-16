@@ -1,0 +1,1 @@
+在coursera平台上martin的functional programming principal for Scala，由于时间限制，martin很多东西跳过了，直接上代码，并不好理解。索性把SICP再度拿出来，仔细研读，将其中的例题以及课后系统都用scala实现一遍，加深印象.
