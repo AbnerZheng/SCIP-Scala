@@ -4,7 +4,7 @@
 		module="sicp-scala$sources_javadoc_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151216084700"
+		publication="20151216100302"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
