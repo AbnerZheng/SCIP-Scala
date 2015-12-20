@@ -1,15 +1,7 @@
-import java.io.File
+case class User(firstName: String, lastName: String, score: Int)
 
-object FileMatcher {
-  private def filesHere = (new File(".").listFiles)
-
-  private def filesMatching(matcher: String => Boolean) = {
-    for (file <- filesHere; if matcher(file.getName))
-      yield file
-  }
-
-  def filesEnding(query: String) =
-    filesMatching(_.endsWith(query))
+def advance(xs: List[User]) = xs match {
+  case User(_, _, score1) :: User(_,_,score2) :: _ => score1 - score2
+  case _ => 0
 }
 
-val a = (x: Int) => x > 0
