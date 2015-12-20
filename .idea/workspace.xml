@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8218cd90-1ff8-4c08-94d1-2ef8284e891c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/chap1/1.2.sc" afterPath="$PROJECT_DIR$/src/main/scala/chap1/1.2.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/chap1/test2.sc" afterPath="$PROJECT_DIR$/src/main/scala/chap1/test2.sc" />
     </list>
     <ignored path="SICP-Scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +36,7 @@
       <file leaf-file-name="1.2.sc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/chap1/1.2.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2803738">
+            <state vertical-scroll-proportion="1.2863849">
               <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
               <folding />
             </state>
@@ -743,7 +741,7 @@
       <option name="number" value="Default" />
       <updated>1450226142901</updated>
       <workItem from="1450226145997" duration="13094000" />
-      <workItem from="1450429090378" duration="6826000" />
+      <workItem from="1450429090378" duration="6837000" />
     </task>
     <task id="LOCAL-00001" summary="finish 1.1">
       <created>1450428374017</created>
@@ -757,11 +755,17 @@
       <option name="project" value="LOCAL" />
       <updated>1450428442385</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish 1.2">
+      <created>1450599058213</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1450599058213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19920000" />
+    <option name="totallyTimeSpent" value="19931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -774,7 +778,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30821916" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -806,7 +810,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish 1.1" />
+    <MESSAGE value="finish 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish 1.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,7 +889,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/chap1/1.2.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2803738">
+        <state vertical-scroll-proportion="1.2863849">
           <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
           <folding />
         </state>
